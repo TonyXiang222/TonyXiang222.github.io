@@ -1,4 +1,4 @@
 ---
-title: "tonyxiang222-github.io"
+title: "Tony Xiang Personal Website"
 ---
 This is Tony's personal website
