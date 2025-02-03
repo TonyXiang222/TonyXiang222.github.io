@@ -2,4 +2,4 @@
 title: "Tony Xiang Personal Website"
 ---
 This is Tony's personal website
-![./images/WechatIMG82.jpg]{width="75%" fig-align="center"}
+![](./images/WechatIMG82.jpg){width="75%" fig-align="center"}
